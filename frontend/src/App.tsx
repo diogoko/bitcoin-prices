@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+      <div className="text-2xl text-green-800 font-bold">hello</div>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
